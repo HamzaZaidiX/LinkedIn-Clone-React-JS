@@ -1,4 +1,4 @@
-# LinkedIn-Clone-React-JS
+# Linkedin-Clone-React-JS
 
 ## Introduction
 
